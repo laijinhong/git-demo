@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 --kk xiaohua
-=======
 --aaxiaohua
->>>>>>> dev2
