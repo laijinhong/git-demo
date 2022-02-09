@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 --kk xiaohua
 --aaxiaohua
-=======
 kk--aaxiaohua
->>>>>>> dev2
+by dev
